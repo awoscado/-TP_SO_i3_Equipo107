@@ -1,0 +1,27 @@
+Nombre y Apellido: Santino Ramos Conti 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2802:8010:26a3:1001:a8d9:2914:d70e:1c09
+   Temporary IPv6 Address. . . . . . : 2802:8010:26a3:1001:876:2260:f51:eb28
+   Link-local IPv6 Address . . . . . : fe80::a8d9:2914:d70e:1c09%6
+   IPv4 Address. . . . . . . . . . . : 192.168.1.42
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::7693:daff:fef9:cc10%6
+                                       192.168.1.1
+Hora: 20:27:48.72 
+
+Nombre y Apellido: Santino Ramos Conti 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2802:8010:26a3:1001:a8d9:2914:d70e:1c09
+   Temporary IPv6 Address. . . . . . : 2802:8010:26a3:1001:876:2260:f51:eb28
+   Link-local IPv6 Address . . . . . : fe80::a8d9:2914:d70e:1c09%6
+   IPv4 Address. . . . . . . . . . . : 192.168.1.42
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::7693:daff:fef9:cc10%6
+                                       192.168.1.1
+Hora: 20:27:48.72 
